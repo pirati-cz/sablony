@@ -94,10 +94,10 @@ Dodavatel je oprávněn užít ke splnění smlouvy na své náklady jinou osobu
 
 Smluvní strany se zavazují 
 
-   * předat si vzájemně nezbytné podklady a doklady, 
-   * vystavit si potvrzení skutečností podstatných pro plnění smlouvy, 
-   * poskytnout si jinou potřebnou součinnost při postupu podle této smlouvy, a to i v případech, kde to smlouva výslovně nezmiňuje,
-   * chovat se navzájem zdvořile a vstřícně i mimo plnění smluvních úkolů.
+   1. předat si vzájemně nezbytné podklady a doklady, 
+   2. vystavit si potvrzení skutečností podstatných pro plnění smlouvy, 
+   3. poskytnout si jinou potřebnou součinnost při postupu podle této smlouvy, a to i v případech, kde to smlouva výslovně nezmiňuje,
+   4. chovat se navzájem zdvořile a vstřícně i mimo plnění smluvních úkolů.
 
 #### § 11 Licence
 
