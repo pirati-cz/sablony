@@ -192,7 +192,7 @@ Zástupci smluvních stran a smluvní strana, která je fyzickou osobou, uděluj
 #### § 21 Řešení sporů
 1. V případě sporu, který vznikne z této smlouvy nebo v souvislosti s ní a který nejsou smluvní strany s to vyřešit samy, pokusí se nejprve o vyřešení sporu smírčím jednáním u prostředníka, na kterém se shodnou nebo kterého určí rozhodčí komise zadavatele, která je utvářena nezávisle na vůli výkonných orgánů zadavatele.
 
-2. V případě neúspěchu smírčího jednání sedodavatel nebo příslušný orgán zadavatele zavazuje obrátit na kontrolní komisi zadavatele se stížností podle rozhodčího řádu, který je vnitřním předpisem zadavatele. 
+2. V případě neúspěchu smírčího jednání se dodavatel nebo příslušný orgán zadavatele zavazuje obrátit na kontrolní komisi zadavatele se stížností podle rozhodčího řádu, který je vnitřním předpisem zadavatele. 
 
 3. Teprve pokud smluvní strany bez úspěchu vyčerpají tyto prostředky, mohou sjednat rozhodčí smlouvu ve prospěch rozhodčí komise zadavatele nebo se obrátit na soud, jinak nebude dluh považován za splatný.
 
