@@ -189,7 +189,7 @@ Zástupci smluvních stran a smluvní strana, která je fyzickou osobou, uděluj
 #### § 21 Řešení sporů
 1. V případě sporu, který vznikne z této smlouvy nebo v souvislosti s ní a který nejsou smluvní strany s to vyřešit samy, pokusí se nejprve o vyřešení sporu smírčím jednáním u prostředníka, na kterém se shodnou nebo kterého určí rozhodčí komise zadavatele, která je utvářena nezávisle na vůli výkonných orgánů zadavatele.
 
-2. Teprve pokud smluvní strany bez úspěchu vyčerpají tyto prostředky, mohou sjednat rozhodčí smlouvu ve prospěch rozhodčí komise zadavatele nebo se obrátit na soud, jinak nebude dluh považován za splatný.
+2. Smluvní strany mohou k rozhodnutí sporu sjednat mimo jiné rozhodčí smlouvu ve prospěch rozhodčí komise zadavatele. Na soud se ale mohou obrátit teprve v případě neúspěchu smírčího jednání, do té doby nebude dluh považován za splatný.
 
 #### § 22 Zveřejňování
 1. Smluvní strany souhlasí se zveřejněním smlouvy. Smlouva nabývá účinnosti okamžikem, kdy je celá včetně plných textů jejích příloh zveřejněna na internetových stránkách zadavatele. Zejména musí být zveřejněn zadávací list v registru smluv zadavatele. Zadávací list může do registru smluv zadavatele vložit kterákoliv smluvní strana.
