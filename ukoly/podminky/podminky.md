@@ -178,7 +178,11 @@ Smluvní strany nesou odpovědnost za škodu způsobenou porušením nebo zanedb
 2. Pokud zpráva došla některým z uvedených způsobů podle dostupných informací adresátovi, je odesílatel oprávněn ji považovat za doručenou, i když se s ní adresát neseznámil.
 
 #### § 19 Ochrana osobních údajů
-Zástupci smluvních stran a smluvní strana, která je fyzickou osobou, udělují souhlas, aby kterákoliv smluvní strana zpracovávala a zveřejňovala osobní údaje uvedené v těchto podmínkách nebo v zadávacím listu, a to pro účely vedení projektové agendy, komunikaci, výkon práv a povinností podle smlouvy a informování veřejnosti.
+
+1. Zástupci smluvních stran a smluvní strana, která je fyzickou osobou, udělují souhlas, aby kterákoliv smluvní strana zpracovávala a zveřejňovala osobní údaje uvedené v těchto podmínkách nebo v zadávacím listu, a to pro účely vedení projektové agendy, komunikaci, výkon práv a povinností podle smlouvy a informování veřejnosti.
+
+2. Souhlas se zpracováním osobních údajů uděluje subjekt na dobu, která je třeba k účelu podle předchozího odstavce. Jde-li o osobní údaje oprávněně zveřejněné podle této smlouvy, uděluje se souhlas neodvolatelně a na dobu neomezenou.
+
 
 #### § 20 Salvátorní ustanovení
 
